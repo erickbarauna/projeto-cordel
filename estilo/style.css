@@ -49,8 +49,8 @@ header p {
 }
 header > p.dica {
     padding-bottom: 10px;
-    font-weight: bold;
     font-family: var(--fonte2);
+    font-size: 14px;
 }
 
 a {
@@ -95,13 +95,13 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('../pexels-the-masked.jpg');
+    background-image: url('../imagens/pexels-the-masked.jpg');
 
 }
 
 section#img02 {
-    background-image: url('https://images.pexels.com/photos/3109168/pexels-photo-3109168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-    background-position: top;
+    background-image: url('../imagens/pexels-wallace.jpg');
+    background-position: left center;
 }
 
 footer {
