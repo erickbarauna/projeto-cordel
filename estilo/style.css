@@ -39,7 +39,7 @@ header h1 {
     font-variant: small-caps;
     font-family: var(--fonte2);
     font-weight: bolder;
-    font-size: 7vw;
+    font-size: 3em;
 }
 
 header p {
@@ -48,11 +48,9 @@ header p {
     font-weight: lighter;
 }
 header > p.dica {
-    font-size: 3vw;
     padding-bottom: 10px;
     font-weight: bold;
     font-family: var(--fonte2);
-
 }
 
 a {
@@ -66,12 +64,12 @@ a:hover {
 }
 
 section {
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 9vh;
+    padding-bottom: 9vh;
     padding-left: 30px;
     line-height: 2em;
     font-family: var(--fonte3);
-    font-size: 4vw;
+    font-size: 1.6em;
 }
 
 section p { 
