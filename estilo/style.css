@@ -95,13 +95,13 @@ section.imagem > p {
 }
 
 section#img01 {
-    background-image: url('https://casa.abril.com.br/wp-content/uploads/2021/05/voce-sabia-que-ao-inves-de-pesticidas-voce-pode-ter-joaninhas-pexels-05.jpg?quality=95&strip=info&w=1024');
-    background-position: absolut;
+    background-image: url('../pexels-the-masked.jpg');
+
 }
 
 section#img02 {
     background-image: url('https://images.pexels.com/photos/3109168/pexels-photo-3109168.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
-    background-position: left center;
+    background-position: top;
 }
 
 footer {
