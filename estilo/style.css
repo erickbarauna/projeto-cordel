@@ -55,12 +55,12 @@ header > p.dica {
 
 a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
     font-weight: bolder;
 }
 
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 section {
@@ -109,5 +109,5 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    font-size: 3vw;
+    font-weight: bold;
 }
